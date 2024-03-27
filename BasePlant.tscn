@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bgfaksirbom6k"]
+
+[ext_resource type="Script" path="res://BasePlant.gd" id="1_pmv7o"]
+
+[node name="BasePlant" type="Node2D"]
+script = ExtResource("1_pmv7o")

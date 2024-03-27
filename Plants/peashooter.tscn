@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://iq3773tjjbut"]
+
+[ext_resource type="PackedScene" uid="uid://bgfaksirbom6k" path="res://BasePlant.tscn" id="1_18fep"]
+
+[node name="Peashooter" instance=ExtResource("1_18fep")]
